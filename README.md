@@ -1,6 +1,6 @@
 # A video conference and playback keymap for Sweet 16 macro pad from 1upkeyboards
 
-![Keymap](keymap.png)
+![Keymap](Sweet16-example-bdd.png)
 
 Implements toggling outgoing audio and video, fullscreen, and controlling
 system volume output for three video conference applications; namely
