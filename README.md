@@ -18,12 +18,14 @@ A YouTube specific super layer--momentarily activated with bottom rightmost
 key--shifts the step size for forward and rewind keys.
 
 Notes:
-- Volume Control
+- Volume Control:
+
   Toggling mute state for the system output volume is implemented key
   chording. Press volume up and volume down buttons at the same time to
   trigger mute/unmute media control keycode.
 
-- Fullscreen
+- Fullscreen:
+
   Currently BlueJeans doesn't have a keyboard shortcut for toggling
   fullscreen mode so this button is not functional when BlueJeans layer is
   active.
@@ -32,5 +34,6 @@ Notes:
   Support for this is implemented in the superior layer of the
   fullscreen key, activated with holding down bottom row rightmost key.
 
-- Third Row
+- Third Row:
+
   Currently no functionality is assigned to the keys on the third row.
